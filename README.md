@@ -2,7 +2,7 @@
 
 🎓 Computer Science student @ University of Warwick<br/>
 💼 Interested in Software Engineering + Finance (Asset Management / Quant)<br/>
-🧠 Always exploring the intersection of tech, data & markets<br/>
+🧠 Always exploring the intersection of tech & markets<br/>
 
 
 # 💻 Tech Stack:
